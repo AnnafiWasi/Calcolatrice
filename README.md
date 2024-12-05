@@ -6,7 +6,5 @@ Struttura del Codice
 Il codice è suddiviso in tre principali classi:
 
 *'Calcolatrice' – La classe principale che avvia l'applicazione e applica il tema della UI.
-
 *'AspettoCalcolatrice' – Gestisce l'aspetto grafico della calcolatrice, inclusa la creazione della finestra e dei bottoni
-
 *'Stato' – Gestisce la logica delle operazioni matematiche.
