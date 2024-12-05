@@ -11,4 +11,5 @@ Il codice è suddiviso in tre principali classi:
 - `AspettoCalcolatrice` – Gestisce l'aspetto grafico della calcolatrice, inclusa la creazione della finestra e dei bottoni
 - `Stato` – Gestisce la logica delle operazioni matematiche.
 
-
+- another 
+    * list
