@@ -18,6 +18,6 @@ public class Calcolatrice {
         } catch (UnsupportedLookAndFeelException ex) {
             ex.printStackTrace();
         }
-        javax.swing.SwingUtilities.invokeLater(() -> new VistaCalcolatrice().creaGUI());
+        javax.swing.SwingUtilities.invokeLater(() -> new AspettoCalcolatrice().creaGUI());
     }
 }
